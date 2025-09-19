@@ -1,0 +1,28 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Git folder (never include)
+.git/
+
+# Logs
+*.log
+
+# Local environment variables
+.env
