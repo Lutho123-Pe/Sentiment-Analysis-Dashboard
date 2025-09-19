@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+matplotlib
+requests
+huggingface_hub
+scikit-learn
+python-dotenv
+python-docx
+xhtml2pdf
+chardet
+nltk
+seaborn
+openpyxl
+xlsxwriter
